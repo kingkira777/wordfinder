@@ -2,9 +2,9 @@
 
 -Author: Jessie Boy Velarde
 
-## Tech.
+#### Tech.
 - Nodejs
 
 
-### Run
--- node wordfinder.js
+#### Run
+    -- node wordfinder.js
